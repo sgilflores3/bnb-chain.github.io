@@ -1,0 +1,30 @@
+{
+  "version" : 3,
+  "crypto" : {
+    "ciphertext" : "2e42c1de4e062e80e1d19c331730b301ea2cda75df3c603092885974ecc030b9b18545d7b602b70f8d715b1d3890129c9944d448d55707e39db968929acba12d32f0b818be1f68cf38",
+    "cipherparams" : {
+      "iv" : "c6bbabdca82200457c2f4474f3451546"
+    },
+    "kdf" : "scrypt",
+    "kdfparams" : {
+      "r" : 8,
+      "p" : 4,
+      "n" : 16384,
+      "dklen" : 32,
+      "salt" : ""
+    },
+    "mac" : "ca29874b9c278589fe71e0c4ba13b4c7b2ff05d7c1c23ba91d366ad2dfbf6c31",
+    "cipher" : "aes-128-ctr"
+  },
+  "id" : "8cb417a7-116e-418d-a9ea-120bbe01a7cf",
+  "activeAccounts" : [
+    {
+      "publicKey" : "0492c2a31b8850c35a62589ae9a324b94fdae4a4c0d5b4d1b983c00765108f963a3d72c29db69efb1134a0767acfb7f0b3cbf115903f9fd9ca032e3e6641f43933",
+      "coin" : 60,
+      "derivationPath" : "m\/44'\/60'\/0'\/0\/0",
+      "address" : "0x515720740F75Ed9d772A755A9326b5EF3E6F2e36"
+    }
+  ],
+  "name" : "Ethereum Wallet",
+  "type" : "mnemonic"
+}
